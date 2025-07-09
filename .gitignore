@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+dist-electron/
+
+# Executables
+*.exe
+*.dll
+*.bin
+*.pak
+*.dat
+*.pyc
+
+# Logs and caches
+.cache/
+*.log
+
+# Environment variables and secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/ 
