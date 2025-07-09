@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Loopify Logo](capy-in-currents.ico)
+![Loopify Logo](Logo.png)
 
 **The revolutionary mini player that lets you control exactly how many times you want a song to loop!**
 
