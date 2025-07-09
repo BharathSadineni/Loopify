@@ -137,16 +137,6 @@ This will:
 - ➕ **Plus/Minus**: Adjust song loop count when in "Song" mode
 - 🖱️ **Drag**: Move the widget anywhere on screen
 
-<div align="center">
-
-**Widget Interaction Flow:**
-
-![Inactive → Hover → Minimized](Loopify%20Inactive.png) → ![Hover State](Loopify%20Hover.png) → ![Minimized State](Loopify%20minimized.png)
-
-*Inactive dot → Hover to expand → Minimized with info*
-
-</div>
-
 ---
 
 ## 🎯 **Loop Modes Explained**
@@ -244,7 +234,6 @@ Loopify/
 
 **Made with ❤️ for music lovers who want precise control over their loops**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/loopify)
-[![Issues](https://img.shields.io/badge/Issues-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/loopify/issues)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BharathSadineni)
 
 </div> 
